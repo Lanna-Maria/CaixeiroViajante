@@ -40,9 +40,13 @@
   Solução para o Problema do Caixeiro Viajante utilizando um <strong>Algoritmo Genético</strong>.
 </p>
 
-<h3>🛠️ Tecnologias utilizadas</h3>
+<h3>🛠️ Tecnologias e ferramentas utilizadas:</h3>
 <p>
-  <strong>Linguagem:</strong> Python.
+  <strong>Linguagem:</strong> Python com bibliotecas como numpy, matplotlib, e argparse.
+
+Implementação de algoritmos para otimização combinatória.
+
+Visualização animada do caminho utilizando a biblioteca matplotlib.animation.
 </p>
 
 
