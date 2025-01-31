@@ -44,3 +44,11 @@
 <p>
   <strong>Linguagem:</strong> Python.
 </p>
+
+<h3>📊 Resultados</h3>
+<video controls width="600">
+  <source src="" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+<p>Vídeo demonstrando os resultados do algoritmo aplicado ao Problema do Caixeiro Viajante.</p>
+
